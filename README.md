@@ -18,7 +18,7 @@
 
 - 👨‍💻 Here's my Portfolio at [@CodeCraftsBySanta](https://codecraftsbysanta.in/)
 
-- 📫 How to reach me [@Sayantan7D](https://x.com/Sayantan7D)
+- 📫 How to reach me [@Sayantan7D](https://topmate.io/sayantan7d/)
 
 - 📄 Know about my experiences [@LinkedIn](https://www.linkedin.com/in/sayantan7d/)
 
