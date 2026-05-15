@@ -1,12 +1,12 @@
 <h1 align="center">Hi <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Sayantan</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/sayantand99/sayantand99/main/.github/workflows/images/Banner-1.png" width="1200" alt="banner"/>
+<img align="center" src="https://raw.githubusercontent.com/Sayantan7D/Sayantan7D/main/.github/workflows/images/Banner-1.png" width="1200" alt="banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1200&lines=A+Young+Software+Engineer+from+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sayantand99&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Sayantan7D&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews"/> </p>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/sayantand99/sayantand99/main/.github/workflows/images/Intro.gif" width="200" height="300" alt="image"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/Sayantan7D/Sayantan7D/main/.github/workflows/images/Intro.gif" width="200" height="300" alt="image"/>
 
 - 🔭 I’m currently working for **JPMorganChase**.
 
@@ -18,9 +18,9 @@
 
 - 👨‍💻 Here's my Portfolio at [@CodeCraftsBySanta](https://codecraftsbysanta.in/)
 
-- 📫 How to reach me [@SayantanD99](https://x.com/SayantanD99)
+- 📫 How to reach me [@Sayantan7D](https://x.com/Sayantan7D)
 
-- 📄 Know about my experiences [@LinkedIn](https://www.linkedin.com/in/sayantand99/)
+- 📄 Know about my experiences [@LinkedIn](https://www.linkedin.com/in/sayantan7d/)
 
 - ⚡ Fun fact **I ❤️ 🐶s 🎧s ☕ 🎮**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Coding Profiles</h3>
 
-<p align="left"><a href="https://www.leetcode.com/sayantand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCodeProfile" height="40"/><img width="25"/></a><a href="https://www.hackerrank.com/sayantand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRankProfile" height="40"/><img width="25"/></a></p>
+<p align="left"><a href="https://www.leetcode.com/Sayantan7D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCodeProfile" height="40"/><img width="25"/></a><a href="https://www.hackerrank.com/Sayantan7D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRankProfile" height="40"/><img width="25"/></a></p>
 
 <h3 align="left">Programming Tools</h3>
 
@@ -200,7 +200,7 @@
 <h3 align="left">My Statistics</h3>
 
 <div align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayantand99/sayantand99/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayantand99/sayantand99/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sayantand99/sayantand99/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayantan7D/Sayantan7D/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayantan7D/Sayantan7D/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sayantan7D/Sayantan7D/output/github-snake.svg" />
 </div>
